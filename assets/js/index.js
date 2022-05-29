@@ -35,7 +35,8 @@ $(document).ready(function(){
 // portfolio carousel
 $('#owl-portfolio').owlCarousel({
     margin:30,
-    dots: false,
+    dots: true,
+    
     responsiveClass:true,
     responsive:{
         0:{
