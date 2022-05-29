@@ -11556,7 +11556,7 @@ pre .code {
   position: relative;
   height: 100vh;
   min-height: 600px;
-  /* background-image: url(../imgs/header.jpg); */
+  background-image: url(../imgs/header.jpg);
   background-size: cover;
   background-position: center;
   display: -webkit-box;
